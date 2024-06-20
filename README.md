@@ -44,3 +44,6 @@ The objective of this project is to develop a machine learning model and deploy 
 
 ## Result & Conclusion: 
 Achieved an R² score of 0.997761 and an MSE of 0.002168, indicating a highly accurate model. We can conclude that being able to predict whether a customer will claim insurance on their vehicle is crucial for the business of insurance providers.
+
+## Application Link:
+[Link](https://car-insurance-claim-prediction.onrender.com/)
